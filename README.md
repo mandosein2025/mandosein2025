@@ -1,5 +1,4 @@
-# Hi there 👋, I'm Mamad  
-
+# Hi there 👋, I'm Mohammad Hosein Habibi
 Welcome to my GitHub profile!  
 I'm a self-taught developer and designer who loves building creative and practical digital solutions.  
 
