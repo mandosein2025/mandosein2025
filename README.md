@@ -4,7 +4,7 @@
   <img align="right" width="35%" src="coder.gif">
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
