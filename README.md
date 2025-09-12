@@ -13,17 +13,13 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Developing my own operating systems (DibaOS, WyoOS) using C, C++ & Assembly.</li>
-  <li>Exploring how to build a graphical user interface (GUI) from scratch in custom OS projects.</li>
-  <li>Creating AI models that learn step by step like a child.</li>
+  <li>Learning the Django library</li>
+  <li>Deep learning of AI programming using Python</li>
   <li>Mastering Three.js & WebGL for interactive 3D experiences.</li>
 </ul>
   
 <h3 align="left">Latest Projects</h3>
 <ul align="left">
-  <li>🌱 <b>DibaOS</b> — My custom operating system project.</li>
-  <li>🎨 <b>WebZen</b> — My YouTube channel with 5-min web design & UI/UX tutorials.</li>
-  <li>🤖 <b>Emotional Robot</b> — Built with Raspberry Pi, sensors, AI, and servos.</li>
   <li>🏨 <b>Reservation System</b> — A booking platform with pricing, calendar, and payment gateway.</li>
 </ul>
 
