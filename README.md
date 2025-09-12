@@ -15,8 +15,7 @@ I'm a self-taught developer and designer who loves building creative and practic
 - Develop tools and systems to make life easier.  
 
 ### 📫 Let's Connect
-- Email: raheroshde@gmail.com  
-- Website: [es-rahroshd.ir](http://es-rahroshd.ir)  
+- Email: mamahosein27@gmail.com    
 
 ---
 
