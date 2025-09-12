@@ -13,7 +13,7 @@
 
 ---
 
-<details open> 
+<details> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/mandosein2025/Harvard-CS50x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mandosein2025&repo=Harvard-CS50x&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Harvard-CS50x"></a>
