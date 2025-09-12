@@ -19,7 +19,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/mandosein2025/Harvard-CS50x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Harvard-CS50x"></a>
+    <a href="https://github.com/mandosein2025/Harvard-CS50x"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mandosein2025&repo=Harvard-CS50x&theme=react&bg_color=0000ff&title_color=ffffff&hide_border=true&show_icons=false" alt="Harvard-CS50x"></a>
     <a href="https://github.com/mandosein2025/Harvard-CS50p"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Harvard-CS50p"></a>
     <a href="https://github.com/mandosein2025/Harvard-CS50ai"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Harvard-CS50ai"></a>
   </p>
