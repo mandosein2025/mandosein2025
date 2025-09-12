@@ -32,27 +32,39 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Mohammad hosein habibi</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="My Skills Animation" src="./Skills_Animation_White.gif">
 </picture>
 <br />
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Developing my own operating systems (DibaOS, WyoOS) using C, C++ & Assembly.</li>
+  <li>Exploring how to build a graphical user interface (GUI) from scratch in custom OS projects.</li>
+  <li>Creating AI models that learn step by step like a child.</li>
+  <li>Mastering Three.js & WebGL for interactive 3D experiences.</li>
 </ul>
   
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">Latest Projects</h3>
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+  <li>🌱 <b>DibaOS</b> — My custom operating system project.</li>
+  <li>🎨 <b>WebZen</b> — My YouTube channel with 5-min web design & UI/UX tutorials.</li>
+  <li>🤖 <b>Emotional Robot</b> — Built with Raspberry Pi, sensors, AI, and servos.</li>
+  <li>🏨 <b>Reservation System</b> — A booking platform with pricing, calendar, and payment gateway.</li>
 </ul>
+
+<h3 align="left">Who I Am</h3>
+<ul align="left">
+  <li>💡 I’m <b>17 years old</b>, started coding since age 12.</li>
+  <li>👨‍💻 Skilled in web development (HTML, CSS, PHP, JavaScript, Python, C, C#) & frameworks (Flask, Django, Three.js).</li>
+  <li>🎨 Experienced in design with Photoshop, Illustrator, Figma, Premiere, and UI/UX.</li>
+  <li>📊 Proficient with Microsoft Office tools (Word, Excel, PowerPoint, Publisher).</li>
+  <li>🌍 Founder of <b>Rah Roshd</b>, offering web solutions & digital services.</li>
+</ul>
+
 <br />
 <br />
 <br />
