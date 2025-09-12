@@ -1,9 +1,7 @@
-<!--Banner-->
 ![Kiran1689 Banner Image](./banner.png)
 
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="coder.gif">
+<div align="right">
+  <img align="right" width="35%" src="coder.gif">
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mohammad Hosein Habibi! 
