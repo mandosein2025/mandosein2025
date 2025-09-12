@@ -1,12 +1,13 @@
 ![Kiran1689 Banner Image](./banner.png)
+
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Mohammad Hosein Habibi
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
+
 <div align="right">
   <img align="right" width="35%" src="coder.gif">
 </div>
-
-
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
